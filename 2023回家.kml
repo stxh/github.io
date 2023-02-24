@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeppurple">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeppurple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lightblue">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-cyan">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-cyan.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-teal">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-teal.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-lime">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-lime.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-deeporange">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-deeporange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-gray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-gray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-bluegray">
+    <IconStyle>
+      <Icon>
+        <href>https://omaps.app/placemarks/placemark-bluegray.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>2023年回家</name>
+  <visibility>1</visibility>
+  <ExtendedData xmlns:mwm="https://omaps.app">
+    <mwm:name>
+      <mwm:lang code="default">2023年回家</mwm:lang>
+    </mwm:name>
+    <mwm:annotation>
+    </mwm:annotation>
+    <mwm:description>
+    </mwm:description>
+    <mwm:lastModified>2023-02-19T14:27:22Z</mwm:lastModified>
+    <mwm:accessRules>Local</mwm:accessRules>
+  </ExtendedData>
+  <Placemark>
+    <name>夏河 2023年1月23日 07:19</name>
+    <TimeStamp><when>2023-01-22T23:19:53Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>102.52161,35.205379</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月23日 07:19</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">夏河 2023年1月23日 07:19</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>14</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>桑科湿地 2023年1月23日 15:53</name>
+    <TimeStamp><when>2023-01-23T07:53:11Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>102.44565,35.129485</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月23日 15:53</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">桑科湿地 2023年1月23日 15:53</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>13</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>调头 2023年1月24日 11:11</name>
+    <TimeStamp><when>2023-01-24T03:11:15Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>102.73132,34.087811</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月24日 11:11</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">调头 2023年1月24日 11:11</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>12</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>天鹅 2023年1月24日 11:39</name>
+    <TimeStamp><when>2023-01-24T03:39:22Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>102.46064,34.019794</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月24日 11:39</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">天鹅 2023年1月24日 11:39</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>12</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>方舟 2023年1月24日 17:50</name>
+    <TimeStamp><when>2023-01-24T09:50:32Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>101.21338,33.071206</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月24日 17:50</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">方舟 2023年1月24日 17:50</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>14</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>阿坝 2023年1月25日 05:07</name>
+    <TimeStamp><when>2023-01-24T21:07:38Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>101.69166,32.910068</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月25日 05:07</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">阿坝 2023年1月25日 05:07</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>13</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>莲宝叶则 缘源咖啡屋</name>
+    <TimeStamp><when>2023-01-24T21:09:10Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>101.15475,33.07734</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">莲宝叶则 缘源咖啡屋</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>amenity-food_court</mwm:value>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:customName>
+        <mwm:lang code="default">莲宝叶则 缘源咖啡屋</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>白塔 stupa</name>
+    <TimeStamp><when>2023-01-24T21:11:26Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>101.23461,33.066052</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">stupa</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:customName>
+        <mwm:lang code="default">白塔 stupa</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>15</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>朝霞夕照</name>
+    <TimeStamp><when>2023-01-25T03:10:26Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>102.08757,32.744637</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">朝霞夕照</mwm:lang>
+        <mwm:lang code="en">Sunrise and Sunset</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>tourism-viewpoint</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>15</mwm:scale>
+      <mwm:icon>Viewpoint</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>渔家川菜 2023年1月25日 14:08</name>
+    <TimeStamp><when>2023-01-25T06:08:59Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>102.70751,31.779646</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月25日 14:08</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">渔家川菜 2023年1月25日 14:08</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>塞车2023年1月25日 18:00</name>
+    <TimeStamp><when>2023-01-25T10:00:24Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>103.4931,31.087333</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月25日 18:00</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">塞车2023年1月25日 18:00</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>13</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>毕棚沟</name>
+    <TimeStamp><when>2023-01-25T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>102.9204,31.306561</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">毕棚沟</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>leisure-park</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>11</mwm:scale>
+      <mwm:icon>Park</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>2023年1月1 3日 奎屯</name>
+    <TimeStamp><when>2023-01-13T16:45:38Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>84.912728,44.446027</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月14日 00:45</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">2023年1月1 3日 奎屯</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>11</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>庄园 1.14</name>
+    <TimeStamp><when>2023-01-13T16:48:14Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>81.384594,43.67043</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">未知位置</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">庄园 1.14</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>19</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>2023年1月15日 吐鲁番</name>
+    <TimeStamp><when>2023-01-14T17:24:02Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>89.179007,42.9406</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月15日 01:24</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">2023年1月15日 吐鲁番</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>16</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>101～呼图壁</name>
+    <TimeStamp><when>2023-01-14T17:26:36Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>86.564638,43.794382</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">未知位置</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">101～呼图壁</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>15</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>下高速去鹿角湾</name>
+    <TimeStamp><when>2023-01-14T17:49:20Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>85.366783,44.341702</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">未知位置</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">下高速去鹿角湾</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>14</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>博尔通古乡</name>
+    <TimeStamp><when>2023-01-14T17:50:08Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>85.377467,44.05317</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">博尔通古乡</mwm:lang>
+        <mwm:lang code="zh">博尔通古乡</mwm:lang>
+        <mwm:lang code="alt_name">Bortunggi;Bo'ertonggu;Bor Tungge Xiang;Бортүңги;بورتۈڭگى</mwm:lang>
+        <mwm:lang code="en">Bor Tungge</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>place-town</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>11</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>鹿角湾</name>
+    <TimeStamp><when>2023-01-14T17:50:55Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>85.288389,43.996512</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">未知位置</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">鹿角湾</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>15</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>101路口</name>
+    <TimeStamp><when>2023-01-14T17:51:25Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>85.294047,43.991361</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">未知位置</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">101路口</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>13</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>丸子汤</name>
+    <TimeStamp><when>2023-01-14T17:55:15Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>86.8267,44.167254</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">丸子汤</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>landuse-industrial</mwm:value>
+      </mwm:featureTypes>
+      <mwm:customName>
+        <mwm:lang code="default">丸子汤</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>14</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>2023年1月15日 哈密</name>
+    <TimeStamp><when>2023-01-15T12:56:21Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>93.532559,42.82619</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月15日 20:56</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">2023年1月15日 哈密</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>16</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>2023年1月16日 停车区</name>
+    <TimeStamp><when>2023-01-16T07:09:57Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>94.867143,40.395419</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月16日 15:09</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">2023年1月16日 停车区</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>8</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>玉门关 Yùménguān</name>
+    <TimeStamp><when>2023-01-16T07:17:29Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>93.864065,40.3536</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="de">Jadetor</mwm:lang>
+        <mwm:lang code="en">Jade Gate</mwm:lang>
+        <mwm:lang code="zh_pinyin">Yù ménguān</mwm:lang>
+        <mwm:lang code="default">玉门关 Yùménguān</mwm:lang>
+        <mwm:lang code="fr">Passage de Jade</mwm:lang>
+        <mwm:lang code="int_name">Yumenguan</mwm:lang>
+        <mwm:lang code="it">Porta di giada</mwm:lang>
+        <mwm:lang code="zh">玉门关</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>historic-ruins</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Sights</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>加油站 无95#</name>
+    <TimeStamp><when>2023-01-16T07:18:46Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>95.468047,41.070785</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">加油站 无95#</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>amenity-fuel</mwm:value>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:customName>
+        <mwm:lang code="default">加油站 无95#</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>15</mwm:scale>
+      <mwm:icon>Gas</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>2023年1月16日 敦煌</name>
+    <TimeStamp><when>2023-01-16T14:04:46Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>94.658412,40.133659</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月16日 22:04</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">2023年1月16日 敦煌</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>16</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>鸣沙山月牙泉</name>
+    <TimeStamp><when>2023-01-16T14:07:22Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>94.674895,40.088192</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">鸣沙山月牙泉</mwm:lang>
+        <mwm:lang code="en">Singing-Sand Mountain and Crescent Moon Spring</mwm:lang>
+        <mwm:lang code="hu">Éneklő-homokhegy és Tavaszi Hold forrás</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>leisure-nature_reserve</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>15</mwm:scale>
+      <mwm:icon>Park</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>莫高窟</name>
+    <TimeStamp><when>2023-01-16T14:08:58Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>94.803745,40.037305</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">莫高窟</mwm:lang>
+        <mwm:lang code="alt_name">敦煌莫高窟</mwm:lang>
+        <mwm:lang code="fr">Grottes de Mogao</mwm:lang>
+        <mwm:lang code="de">Mogao-Grotten</mwm:lang>
+        <mwm:lang code="vi">Hang Mạc Cao</mwm:lang>
+        <mwm:lang code="en">Mogao Caves</mwm:lang>
+        <mwm:lang code="ru">Пещеры Могао</mwm:lang>
+        <mwm:lang code="tr">Mogao Mağaraları</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>historic-archaeological_site</mwm:value>
+        <mwm:value>tourism-attraction</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Sights</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>2023年1月18日 12:21</name>
+    <TimeStamp><when>2023-01-18T04:21:26Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>95.925482,40.070192</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月18日 12:21</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">2023年1月18日 12:21</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>11</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>2023年1月18日 13:37</name>
+    <TimeStamp><when>2023-01-18T05:37:30Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>96.18751,40.267814</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月18日 13:37</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">2023年1月18日 13:37</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>11</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>2023年1月18日 14:06</name>
+    <TimeStamp><when>2023-01-18T06:06:25Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>95.908371,40.305932</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月18日 14:06</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">2023年1月18日 14:06</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>11</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>2023年1月18日 14:34大地之子</name>
+    <TimeStamp><when>2023-01-18T06:34:45Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>95.838128,40.381502</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月18日 14:34</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">2023年1月18日 14:34大地之子</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>11</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>2023年1月19日 13:52</name>
+    <TimeStamp><when>2023-01-19T05:52:14Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>93.920954,38.940453</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月19日 13:52</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">2023年1月19日 13:52</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>6</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>苏干湖</name>
+    <TimeStamp><when>2023-01-19T05:56:14Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>93.885309,38.870825</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="alt_name">Ozero Sukhain-nor;Lake Sukhain;Su-kan-no-erh;Sukaan Nor;Su-kan Hu;Suhayn Nuur;Suhai Hu;Suichain Nur;Hsi-hai-tzu;Sukkain Nor</mwm:lang>
+        <mwm:lang code="ru">озеро Сухай-Нур</mwm:lang>
+        <mwm:lang code="zh_pinyin">sūgān hú</mwm:lang>
+        <mwm:lang code="default">苏干湖</mwm:lang>
+        <mwm:lang code="en">Lake Sugan</mwm:lang>
+        <mwm:lang code="int_name">Sugan Hu</mwm:lang>
+        <mwm:lang code="zh">苏干湖</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>natural-water-lake</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>10</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>2023年1月19日 15:58路边</name>
+    <TimeStamp><when>2023-01-19T07:58:51Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>92.967076,38.513918</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月19日 15:58</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">2023年1月19日 15:58路边</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>8</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>2023年1月19日 观山美墅</name>
+    <TimeStamp><when>2023-01-19T21:41:38Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>90.848476,38.25138</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月20日 05:41</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">2023年1月19日 观山美墅</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>16</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>2023年1月20日 12:09</name>
+    <TimeStamp><when>2023-01-20T04:09:13Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>90.576308,38.112361</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月20日 12:09</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">2023年1月20日 12:09</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>16</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>ཧོང་ཀྲའོ་ལིའང 黄瓜梁</name>
+    <TimeStamp><when>2023-01-20T06:43:44Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>91.89384,38.099226</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">ཧོང་ཀྲའོ་ལིའང 黄瓜梁</mwm:lang>
+        <mwm:lang code="zh">黄瓜梁</mwm:lang>
+        <mwm:lang code="en">Huanggualiang</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>place-locality</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>12</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>火星公路入口 2023年1月20日 17:20</name>
+    <TimeStamp><when>2023-01-20T09:20:02Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>93.101026,38.056894</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月20日 17:20</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">火星公路入口 2023年1月20日 17:20</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>13</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>水上公路2023年1月20日 19:00</name>
+    <TimeStamp><when>2023-01-20T11:00:33Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>93.424868,37.748341</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月20日 19:00</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">水上公路2023年1月20日 19:00</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>9</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>水上雅丹 2023年1月20日 19:25</name>
+    <TimeStamp><when>2023-01-20T11:25:31Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>93.705078,37.650701</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月20日 19:25</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">水上雅丹 2023年1月20日 19:25</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>9</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>大柴旦 2023年1月21日 01:08</name>
+    <TimeStamp><when>2023-01-20T17:08:04Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>95.358151,37.849184</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月21日 01:08</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">大柴旦 2023年1月21日 01:08</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>15</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>停车 2023年1月21日 16:51</name>
+    <TimeStamp><when>2023-01-21T08:51:05Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>97.772763,37.063659</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月21日 16:51</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">停车 2023年1月21日 16:51</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>7</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>茶卡 2023年1月21日 22:53</name>
+    <TimeStamp><when>2023-01-21T14:53:26Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>99.084759,36.790233</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月21日 22:53</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">茶卡 2023年1月21日 22:53</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>16</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>བླ་བྲང་བཀྲ་ཤིས་འཁྱིལ་ 拉卜楞寺</name>
+    <TimeStamp><when>2023-01-21T16:34:47Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>102.50704,35.19391</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">བླ་བྲང་བཀྲ་ཤིས་འཁྱིལ་ 拉卜楞寺</mwm:lang>
+        <mwm:lang code="fr">Monastère de Labrang</mwm:lang>
+        <mwm:lang code="alt_name">Labrang;Labrang Tashi Khyil;Labrang Tashikhyil;Labrang Trashi Khyil</mwm:lang>
+        <mwm:lang code="sv">Labrangklostret</mwm:lang>
+        <mwm:lang code="de">Labrang</mwm:lang>
+        <mwm:lang code="en">Labrang Monastery</mwm:lang>
+        <mwm:lang code="ja">ラプラン寺</mwm:lang>
+        <mwm:lang code="nl">Labrang (klooster)</mwm:lang>
+        <mwm:lang code="ru">Лабранг</mwm:lang>
+        <mwm:lang code="zh">拉卜楞寺</mwm:lang>
+        <mwm:lang code="pl">Labrang (klasztor)</mwm:lang>
+        <mwm:lang code="zh_pinyin">Lābǔlèng Sì</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-buddhist</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Buddhism</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>塔尔寺</name>
+    <TimeStamp><when>2023-01-21T23:20:24Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>101.5657,36.492635</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">塔尔寺</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>highway-bus_stop</mwm:value>
+        <mwm:value>public_transport-platform</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Transport</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>八角城</name>
+    <TimeStamp><when>2023-01-21T23:20:52Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>102.57406,35.398777</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">八角城</mwm:lang>
+        <mwm:lang code="zh">八角城</mwm:lang>
+        <mwm:lang code="alt_name">八角城村</mwm:lang>
+        <mwm:lang code="en">Bajiao</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>place-village</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>11</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>甘加镇</name>
+    <TimeStamp><when>2023-01-21T23:24:25Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>102.5164,35.401239</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">甘加镇</mwm:lang>
+        <mwm:lang code="old_name">甘加乡</mwm:lang>
+        <mwm:lang code="zh">甘加镇</mwm:lang>
+        <mwm:lang code="alt_name">甘加</mwm:lang>
+        <mwm:lang code="en">Ganjia</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>place-town</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>11</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>碌曲县</name>
+    <TimeStamp><when>2023-01-21T23:25:21Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>102.48605,34.592768</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">碌曲县</mwm:lang>
+        <mwm:lang code="zh_pinyin">lùqǔ xiàn</mwm:lang>
+        <mwm:lang code="alt_name">碌曲;Luchu;Luqu County;Klu Chu</mwm:lang>
+        <mwm:lang code="de">Luqu</mwm:lang>
+        <mwm:lang code="vi">Lục Khúc</mwm:lang>
+        <mwm:lang code="en">Luqu</mwm:lang>
+        <mwm:lang code="es">Luqu</mwm:lang>
+        <mwm:lang code="zh">碌曲县</mwm:lang>
+        <mwm:lang code="fr">Luqu</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>place-city-capital-6</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>10</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>郎木寺镇</name>
+    <TimeStamp><when>2023-01-21T23:25:32Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>102.63383,34.091122</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">郎木寺镇</mwm:lang>
+        <mwm:lang code="zh">郎木寺镇</mwm:lang>
+        <mwm:lang code="alt_name">郎木寺;Dagcanglhamo;Se-ch'ih-ssu;Lang-mu-su;Lang-mu-ssu;Lhamogoinba;སྟག་ཚང་ལྷ་མོ་</mwm:lang>
+        <mwm:lang code="en">Langmusi</mwm:lang>
+        <mwm:lang code="zh_pinyin">lángmùsì zhèn</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>place-town</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>10</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>ཝ་བན་ཚང་རྙིང་མ་དགོན / 阿万仓宁玛寺</name>
+    <TimeStamp><when>2023-01-21T23:26:42Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>101.64042,33.732314</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">ཝ་བན་ཚང་རྙིང་མ་དགོན / 阿万仓宁玛寺</mwm:lang>
+        <mwm:lang code="zh">阿万仓宁玛寺</mwm:lang>
+        <mwm:lang code="en">Awancang Monastery</mwm:lang>
+        <mwm:lang code="zh_pinyin">āwàncāng níngmǎsì</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-buddhist</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Buddhism</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>日月山 2023年1月22日 12:35</name>
+    <TimeStamp><when>2023-01-22T04:35:19Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>101.25883,36.623759</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月22日 12:35</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">日月山 2023年1月22日 12:35</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>10</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>红星饭店</name>
+    <TimeStamp><when>2023-01-26T04:23:41Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>103.85752,30.839083</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">红星饭店</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>landuse-commercial</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>三星堆停车场 2023年1月27日 11:01</name>
+    <TimeStamp><when>2023-01-27T03:01:50Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>104.22332,31.000126</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月27日 11:01</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">三星堆停车场 2023年1月27日 11:01</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>12</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>离开成都2023年1月27日 17:45</name>
+    <TimeStamp><when>2023-01-27T09:45:05Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>104.12696,30.404727</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月27日 17:45</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">离开成都2023年1月27日 17:45</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>12</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>自贡服务区</name>
+    <TimeStamp><when>2023-01-27T11:35:50Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>104.89509,29.349018</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">自贡服务区</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>highway-services</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>16</mwm:scale>
+      <mwm:icon>Parking</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>停车2023年1月27日 21:36</name>
+    <description>2月17日10:50再次路过</description>
+    <TimeStamp><when>2023-01-27T13:36:49Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>105.9741,28.290907</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月27日 21:36</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">2月17日10:50再次路过</mwm:lang>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">停车2023年1月27日 21:36</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>9</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>夜宿大坝出口2023年1月28日 00:15</name>
+    <TimeStamp><when>2023-01-27T16:15:55Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>106.40754,28.011288</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月28日 00:15</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">夜宿大坝出口2023年1月28日 00:15</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>8</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>停车休息2023年1月28日 05:55</name>
+    <TimeStamp><when>2023-01-27T21:55:19Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>107.00383,27.365915</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月28日 05:55</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">停车休息2023年1月28日 05:55</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>8</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>行车 2023年1月28日 07:16</name>
+    <TimeStamp><when>2023-01-27T23:16:48Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>107.45614,27.095924</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月28日 07:16</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">行车 2023年1月28日 07:16</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>8</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>2023年1月28日 12:20</name>
+    <TimeStamp><when>2023-01-28T04:20:22Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>108.33743,24.654558</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月28日 12:20</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">2023年1月28日 12:20</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>9</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>下高速吃饭2023年1月28日 15:40</name>
+    <TimeStamp><when>2023-01-28T07:40:40Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>109.70533,23.58959</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月28日 15:40</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">下高速吃饭2023年1月28日 15:40</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>8</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>服务区2023年1月28日 18:50</name>
+    <TimeStamp><when>2023-01-28T10:50:22Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>110.67229,23.593671</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年1月28日 18:50</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">服务区2023年1月28日 18:50</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>9</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>2023年2月5日 15:18</name>
+    <TimeStamp><when>2023-02-05T07:18:05Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>113.55062,22.796968</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年2月5日 15:18</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">2023年2月5日 15:18</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>绿岛明珠花园</name>
+    <TimeStamp><when>2023-02-05T07:25:33Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>113.01932,22.982668</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">绿岛明珠花园</mwm:lang>
+        <mwm:lang code="zh">绿岛明珠花园</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>landuse-residential</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>周主任 2023年2月6日 11:43</name>
+    <TimeStamp><when>2023-02-06T03:43:18Z</when></TimeStamp>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>113.54631,23.33515</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年2月6日 11:43</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">周主任 2023年2月6日 11:43</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>16</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>石洞</name>
+    <TimeStamp><when>2023-02-17T04:08:55Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>105.47791,28.963244</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">石洞</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>amenity-parking</mwm:value>
+      </mwm:featureTypes>
+      <mwm:customName>
+        <mwm:lang code="default">石洞</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Parking</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>琴台美宿2023年2月17日 20:42</name>
+    <TimeStamp><when>2023-02-17T12:42:37Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>104.04414,30.664453</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年2月17日 20:42</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">琴台美宿2023年2月17日 20:42</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>沙湾2023年2月18日 16:37</name>
+    <TimeStamp><when>2023-02-18T08:37:40Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>104.57363,33.604498</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年2月18日 16:37</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">沙湾2023年2月18日 16:37</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>16</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>渭源田地国际2023年2月18日 21:06</name>
+    <TimeStamp><when>2023-02-18T13:06:02Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>104.2884,34.844243</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">2023年2月18日 21:06</mwm:lang>
+      </mwm:name>
+      <mwm:customName>
+        <mwm:lang code="default">渭源田地国际2023年2月18日 21:06</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>15</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>渭水长虹霸陵桥</name>
+    <TimeStamp><when>2023-02-18T16:08:26Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>104.21463,35.13482</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">渭水长虹霸陵桥</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>highway-footway-bridge</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>18</mwm:scale>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>永昌服务区20230219 1619</name>
+    <TimeStamp><when>2023-02-19T08:19:31Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>102.01243,38.227778</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://omaps.app">
+      <mwm:name>
+        <mwm:lang code="default">永昌服务区</mwm:lang>
+        <mwm:lang code="zh">永昌服务区</mwm:lang>
+        <mwm:lang code="en">Yongchang Service Area</mwm:lang>
+      </mwm:name>
+      <mwm:featureTypes>
+        <mwm:value>highway-services</mwm:value>
+      </mwm:featureTypes>
+      <mwm:customName>
+        <mwm:lang code="default">永昌服务区20230219 1619</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>15</mwm:scale>
+      <mwm:icon>Parking</mwm:icon>
+      <mwm:visibility>1</mwm:visibility>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>
